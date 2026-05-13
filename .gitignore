@@ -1,0 +1,6 @@
+07_Geospatial_ML_workflow/data/
+*.SAFE/
+*.tif
+*.jp2
+*.aux.xml
+.ipynb_checkpoints/
